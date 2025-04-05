@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "image": "https://via.placeholder.com/200x300?text=Attack+on+Titan",
+    "description": "Humans fight titans in a post-apocalyptic world."
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "image": "https://via.placeholder.com/200x300?text=One+Piece",
+    "description": "A pirate adventure to find the legendary treasure One Piece."
+  },
+  {
+    "id": 3,
+    "title": "Demon Slayer",
+    "image": "https://via.placeholder.com/200x300?text=Demon+Slayer",
+    "description": "Tanjiro joins the Demon Slayer Corps to save his sister."
+  },
+  {
+    "id": 4,
+    "title": "Naruto",
+    "image": "https://via.placeholder.com/200x300?text=Naruto",
+    "description": "A young ninja dreams of becoming the Hokage."
+  }
+]
